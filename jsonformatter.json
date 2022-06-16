@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "texto": "Pepito Conejo",
+    "duracion": 2,
+    "sexo": "Unisex",
+    "reto": false
+  },
+  {
+    "id": 1,
+    "texto": "Pepito Conejo",
+    "duracion": 2,
+    "sexo": "Unisex",
+    "reto": false
+  },
+  {
+    "id": 1,
+    "texto": "Pepito Conejo",
+    "duracion": 25,
+    "masculina": true,
+    "reto": false
+  },
+  {
+    "id": 1,
+    "texto": "Pepito Conejo",
+    "duracion": 2,
+    "sexo": "Unisex",
+    "reto": false
+  },
+  {
+    "id": 1,
+    "texto": "Pepito Conejo",
+    "duracion": 25,
+    "masculina": true,
+    "reto": false
+  },
+  {
+    "id": 1,
+    "texto": "Pepito Conejo",
+    "duracion": 2,
+    "sexo": "Unisex",
+    "reto": false
+  }
+]
