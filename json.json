@@ -6,7 +6,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":false,
-    "reto": false,
     "nivel": 1
   },
   {
@@ -16,7 +15,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":false,
-    "reto": false,
     "nivel": 1
   },
   {
@@ -26,7 +24,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":false,
-    "reto": false,
     "nivel": 1
   },
   {
@@ -36,7 +33,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":false,
-    "reto": false,
     "nivel": 1
   },
   {
@@ -46,7 +42,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":false,
-    "reto": false,
     "nivel": 1
   },
   {
@@ -56,7 +51,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":false,
-    "reto": false,
     "nivel": 1
   },
   {
@@ -65,8 +59,7 @@
     "duracion": 2,
     "sexo": "U",
     "tipo": "atrevimiento",
-     "bisexual":false,
-    "reto": true,
+    "bisexual":false,
     "nivel": 3
   },
   {
@@ -76,7 +69,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":false,
-    "reto": false,
     "nivel": 1
   },
   {
@@ -86,7 +78,6 @@
     "sexo": "U",
     "tipo": "pregunta",
     "bisexual":true,
-    "reto": false,
     "nivel": 1
   },
   {
