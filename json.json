@@ -4,7 +4,7 @@
     "texto": "¿Qué tipo de pornografía te excita más y porqué?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -13,7 +13,7 @@
     "texto": "¿Cada cuánto te masturbas? y en que piensas cuando lo haces?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -22,7 +22,7 @@
     "texto": "¿Cómo fue tu experiencia sexual más excitante?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -31,7 +31,7 @@
     "texto": "¿Has fantaseado con alguien de tu entorno?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -40,7 +40,7 @@
     "texto": "¿Cuenta una fantasía que nadie sepa y te de especial morbo?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -49,7 +49,7 @@
     "texto": "¿Te gustaría o te hubiese gustado tener una experiencia sexual con dos o mas personas? Razona y cuenta como sería con todo lujo de detalles mientras te acaricias o tocas sensualmente",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -58,7 +58,7 @@
     "texto": "Pon tu sexo en la cara/boca de tu pareja y usala sin pieadad buscando tu único placer, sometelel@",
     "duracion": 2,
     "sexo": "U",
-    "tipo": "atrevimiento",
+    "tipo": "prueba",
     "bisexual":false,
     "nivel": 3
   },
@@ -67,7 +67,7 @@
     "texto": "¿Cuentale una fantasia o secreto sexual al oido mientras masturbas al otro jugador?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "prueba",
     "bisexual":false,
     "nivel": 1
   },
@@ -76,7 +76,7 @@
     "texto": "¿Te montarias una aventura sexual con alguna persona de tu mismo sexo?¿lo harias con alguien de tu entorno?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":true,
     "nivel": 1
   },
@@ -85,7 +85,7 @@
     "texto": "¿Te has masturbado o fantaseado con alguien de tu mismo sexo?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":true,
     "nivel": 1
   },
@@ -94,7 +94,7 @@
     "texto": "¿Que te gustaría probar sexualmente con alguien de tu mismo sexo, y cuantas ganas tienes de probarlo?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":true,
     "nivel": 1
   },
@@ -103,7 +103,7 @@
     "texto": "¿Te gusta usar los juguetes para masturbarte?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -112,7 +112,7 @@
     "texto": "¿Te gusta usar en la cama juguetes sexuales?¿Cual es tu preferido?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -121,7 +121,7 @@
     "texto": "¿Te gusta más dominar o ser dominado y porqué?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -130,7 +130,7 @@
     "texto": "¿Tu mayor secreto o morbo en una masturbación?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 2
   },
@@ -139,7 +139,7 @@
     "texto": "¿Te has sentido excitado o excitada en algún centro comercial o lugar público?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1    
   },
@@ -148,7 +148,7 @@
     "texto": "¿Te daria morbo salir sin ropa interior a cenar o algún sitio en especial?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -157,7 +157,7 @@
     "texto": "¿Te daría morbo sentirte usado o usada por tu pareja, y que te utilizase para sus fantasias voyeur?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 2
   },
@@ -166,7 +166,7 @@
     "texto": "¿Te daria morbo que tu pareja te mostrase o utilizase con otras personas para su excitación?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 2
   },
@@ -175,7 +175,7 @@
     "texto": "¿Te excita tener sexo y ser visto?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 2
   },
@@ -184,7 +184,7 @@
     "texto": "¿Te da morbo usar disfraces?Si es así di cual usarias y porqué",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
   },
@@ -193,7 +193,7 @@
     "texto": "¿Harías cibersexo?",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "verdad",
     "bisexual":false,
     "nivel": 2
   },
@@ -220,7 +220,7 @@
     "texto": "Ponte tumbado o con el culo en pompa y recibe 10 azotes duros en las nalgas y que dejen marca",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "prueba",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 2
   },
@@ -256,7 +256,7 @@
     "texto": "Deja que tu pareja te embadurne de lubricante, nata o caramelo en las partes de tu cuerpo que quiera",
     "duracion": 2,
     "sexo": "U",
-    "tipo": "prueba",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 2
   },
@@ -283,7 +283,7 @@
     "texto": "Haz squirting a tu chica y no pares hasta conseguirlo",
     "duracion": 0,
     "sexo": "M",
-    "tipo": "prueba",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 5
   },
@@ -319,7 +319,7 @@
     "texto": "Deja que tu pareja te grabe o te haga fotos mientras follais o teneis sexo oral",
     "duracion": 3,
     "sexo": "U",
-    "tipo": "prueba",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 4
   },
@@ -328,7 +328,7 @@
     "texto": "Deja que tu pareja te haga algun vídeo o te haga fotos sexys",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 2
   },
@@ -337,7 +337,7 @@
     "texto": "Realiza la postura sexual que te pida tu pareja sin poder negarte durante el tiempo de la prueba",
     "duracion": 2,
     "sexo": "U",
-    "tipo": "prueba",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 4
   },
@@ -346,7 +346,7 @@
     "texto": "Serás inmobilizado por tu pareja y usado con los ojos vendados lo que dure la prueba",
     "duracion": 2,
     "sexo": "U",
-    "tipo": "prueba",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 4
   },
@@ -382,7 +382,7 @@
     "texto": "Tu pareja elegira una prueba o fantasia que deberás cumplir sin negarte",
     "duracion": 2,
     "sexo": "U",
-    "tipo": "prueba",
+    "tipo": "reto",
     "bisexual":false,
     "reto": true,
     "nivel": 5
@@ -392,7 +392,7 @@
     "texto": "Realiza cibersexo delante de tu pareja,mientras se masturba o te masturba",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 6
   },
@@ -401,7 +401,7 @@
     "texto": "Excita a una persona por telefono contandole en manos libres lo que vas haciendo con tu pareja.(Podeis ayudaros de chat para captar publico)",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 6
   },
@@ -410,7 +410,7 @@
     "texto": "Excita a una persona por telefono mientras masturbas a tu pareja.(Podeis ayudaros de chat para captar publico)",
     "duracion": 0,
     "sexo": "U",
-    "tipo": "pregunta",
+    "tipo": "reto",
     "bisexual":false,
     "nivel": 6
   }
