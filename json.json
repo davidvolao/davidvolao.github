@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "texto": "pon tu sexo en la cara o boca de tu pareja y usala sin pieadad buscando tu único placer, sometelela",
+    "texto": "pon tu sexo en la cara o boca de tu pareja y usala sin pieadad buscando tu único placer, sométela",
     "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "texto": "cuéntale una fantasía o secreto sexual al oido mientras masturbas al otro jugador llevándole al límite sin dejar que se corra",
+    "texto": "cuéntale una fantasía o secreto sexual al oído mientras masturbas al otro jugador llevándole al límite sin dejar que se corra",
     "duracion": 0,
     "sexo": "U",
     "tipo": "prueba",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "texto": "¿Te gusta usar en la cama juguetes sexuales?¿Cual es tu preferidoy porqué?",
+    "texto": "¿Te gusta usar en la cama juguetes sexuales?¿Cuál es tu preferido y porqué?",
     "duracion": 0,
     "sexo": "U",
     "tipo": "verdad",
@@ -199,7 +199,7 @@
   },
   {
     "id": 23,
-    "texto": "con los ojos vendados,habiendote dado varias vueltas, y solo con la ayuda de la boca encuentra las partes del cuerpo que su pareja te diga",
+    "texto": "con los ojos vendados,habiéndote dado varias vueltas, y solo con la ayuda de la boca encuentra las partes del cuerpo que su pareja te diga",
     "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
@@ -352,7 +352,7 @@
   },
   {
     "id": 38,
-    "texto": "compartir vuestros fluidos o prefluidos besaandoos sensualmente, podeis ayudaros a mojaros con masturbación o sexo oral",
+    "texto": "compartir vuestros fluidos o prefluidos besáandoos sensualmente, podeis ayudaros a mojaros con masturbación o sexo oral",
     "duracion": 3,
     "sexo": "U",
     "tipo": "prueba",
@@ -370,7 +370,7 @@
   },
   {
     "id": 40,
-    "texto": "en posición sentada o tumbada y sin poder tocar a la otra persona mientras te folla o te da placer con todo su ingenio sin poder quitarte",
+    "texto": "colócate en posición sentada o tumbada y sin poder tocar a la otra persona mientras te folla o te da placer con todo su ingenio sin poder quitarte",
     "duracion": 3,
     "sexo": "U",
     "tipo": "prueba",
@@ -488,7 +488,7 @@
   },
   {
     "id": 54,
-    "texto": "masturbarte en la cara de tu pareja sensualmente mientras le provocas con tus palabras",
+    "texto": "mastúrbarte en la cara de tu pareja sensualmente mientras le provocas con tus palabras",
     "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
@@ -497,7 +497,7 @@
   },
   {
     "id": 55,
-    "texto": "agarra y aprieta la cabeza de tu pareja mientras te hace sexo oral y muevela a tu antojo marcando el ritmo para darte placer",
+    "texto": "agarra y aprieta la cabeza de tu pareja mientras te hace sexo oral y muévela a tu antojo marcando el ritmo para darte placer",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -560,7 +560,7 @@
   },
   {
     "id": 62,
-    "texto": "mientras tu pareja se masturba, besala y provocale con tus palabras, no te calles",
+    "texto": "mientras tu pareja se masturba, bésala y provocale con tus palabras, no te calles",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -605,7 +605,7 @@
   },
   {
     "id": 67,
-    "texto": "haz que tu pareja se corra en tu boca, besala jugando con sus fluidos y masturbándola mientras la vuelves a poner a tono",
+    "texto": "haz que tu pareja se corra en tu boca, bésala jugando con sus fluidos y masturbándola mientras la vuelves a poner a tono",
     "duracion": 0,
     "sexo": "U",
     "tipo": "reto",
@@ -623,7 +623,7 @@
   },
   {
     "id": 69,
-    "texto": "toca realizar un 69, te toca a ti arriba y tu pareja debajo",
+    "texto": "toca realizar un 69, te toca a tí arriba y tu pareja debajo",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -665,5 +665,14 @@
     "tipo": "verdad",
     "bisexual":false,
     "nivel": 3
+  },
+  {
+    "id": 74,
+    "texto": "Toca ser dominante.Escupe a tu pareja donde quieras y las veces que quieras, y humillalá mientras la masturbas sin dejar que se corra.",
+    "duracion": 2,
+    "sexo": "U",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 5
   }
 ]
