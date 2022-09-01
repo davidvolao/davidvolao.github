@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "texto": "cuéntale una fantasía o secreto sexual al oido mientras masturbas al otro jugador llevaándole al límite sin dejar que se corra",
+    "texto": "cuéntale una fantasía o secreto sexual al oido mientras masturbas al otro jugador llevándole al límite sin dejar que se corra",
     "duracion": 0,
     "sexo": "U",
     "tipo": "prueba",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "texto": "¿Te gusta usar en la cama juguetes sexuales?¿Cual es tu preferido?",
+    "texto": "¿Te gusta usar en la cama juguetes sexuales?¿Cual es tu preferidoy porqué?",
     "duracion": 0,
     "sexo": "U",
     "tipo": "verdad",
@@ -361,7 +361,7 @@
   },
   {
     "id": 39,
-    "texto": "excita a tu pareja diciendole todo tipo de guarradas o cosas que se pasen por la cabeza mientras le masturbas, no te cortes para obtener mejor puntuación",
+    "texto": "excita a tu pareja diciéndole todo tipo de guarradas o cosas que se pasen por tu cabeza mientras le masturbas, no te cortes para obtener mejor puntuación",
     "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
@@ -656,5 +656,14 @@
     "tipo": "reto",
     "bisexual":false,
     "nivel": 5
+  },
+  {
+    "id": 73,
+    "texto": "¿Con que frecuencia te masturbas y como lo haces?Cuenta tu última masturbación",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 3
   }
 ]
