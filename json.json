@@ -288,18 +288,9 @@
     "nivel": 5
   },
   {
-    "id": 32,
+    "id": 33,
     "texto": "consigue el mayor número de orgasmos sobre tu pareja con sexo oral o masturbación en el tiempo indicado.átale o átala",
     "duracion": 4,
-    "sexo": "U",
-    "tipo": "prueba",
-    "bisexual":false,
-    "nivel": 4
-  },
-  {
-    "id": 33,
-    "texto": "consigue el mayor número de orgasmos sobre tu pareja utilizando lo que quieras, átale o átala",
-    "duracion": 1,
     "sexo": "U",
     "tipo": "prueba",
     "bisexual":false,
@@ -343,7 +334,7 @@
   },
   {
     "id": 38,
-    "texto": "serás inmobilizado por tu pareja y usado con los ojos vendados lo que dure la prueba",
+    "texto": "serás inmobilizado por tu pareja y usado con los ojos vendados lo que dure la prueba.Puntúa el que realiza la acción en función de lo que haya dejado ser usado su pareja.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -351,8 +342,8 @@
     "nivel": 4
   },
   {
-    "id": 38,
-    "texto": "compartir vuestros fluidos o prefluidos besáandoos sensualmente, podeis ayudaros a mojaros con masturbación o sexo oral",
+    "id": 39,
+    "texto": "compartir vuestros fluidos o prefluidos besáandoos sensualmente, podeis ayudaros a mojaros con masturbación o sexo oral.Puntúa tu pareja.",
     "duracion": 3,
     "sexo": "U",
     "tipo": "prueba",
@@ -360,7 +351,7 @@
     "nivel": 4
   },
   {
-    "id": 39,
+    "id": 40,
     "texto": "excita a tu pareja diciéndole todo tipo de guarradas o cosas que se pasen por tu cabeza mientras le masturbas, no te cortes para obtener mejor puntuación",
     "duracion": 2,
     "sexo": "U",
@@ -369,8 +360,8 @@
     "nivel": 3
   },
   {
-    "id": 40,
-    "texto": "colócate en posición sentada o tumbada y sin poder tocar a la otra persona mientras te folla o te da placer con todo su ingenio sin poder quitarte",
+    "id": 41,
+    "texto": "colóca a tu pareja en posición sentada o tumbada y sin que te pueda tocar folla a tu pareja o dale placer con todo su ingenio sin poder quitarte.",
     "duracion": 3,
     "sexo": "U",
     "tipo": "prueba",
@@ -378,8 +369,8 @@
     "nivel": 4
   },
   {
-    "id": 41,
-    "texto": "tu pareja elegirá una prueba o fantasía que deberás cumplir sin negarte",
+    "id": 42,
+    "texto": "tu pareja elegirá una prueba o fantasía que deberás cumplir sin negarte.Puntúa quien recibe la acción.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -388,8 +379,8 @@
     "nivel": 5
   },
   {
-    "id": 42,
-    "texto": "realiza cibersexo delante de tu pareja,mientras se masturba o te masturba",
+    "id": 43,
+    "texto": "realiza cibersexo delante de tu pareja,mientras se masturba o te masturba.Puntúa tu pareja en función de lo que le haya excitado.",
     "duracion": 0,
     "sexo": "U",
     "tipo": "reto",
@@ -398,7 +389,7 @@
   },
   {
     "id": 44,
-    "texto": "excita a una persona por teléfono contándole en manos libres lo que vas haciendo con tu pareja.(Podeis ayudaros de chat para captar publico)",
+    "texto": "excita a una persona por teléfono contándole en manos libres lo que vas haciendo con tu pareja.(Podeis ayudaros de chat para captar publico).Puntúa tu pareja.",
     "duracion": 0,
     "sexo": "U",
     "tipo": "reto",
@@ -407,7 +398,7 @@
   },
   {
     "id": 45,
-    "texto": "excita a una persona por teléfono mientras masturbas a tu pareja.(Podeis ayudaros de chat para captar publico)",
+    "texto": "excita a una persona por teléfono mientras masturbas a tu pareja.(Podeis ayudaros de chat para captar publico).Puntúa tu pareja.",
     "duracion": 0,
     "sexo": "U",
     "tipo": "reto",
@@ -470,7 +461,7 @@
   },
   {
     "id": 52,
-    "texto": "chupa sensualmente el dedo de tu pareja que tu elijas el cual introducirá en tu ano con suavidad para masturbarte",
+    "texto": "chuparás sensualmente el dedo que tu pareja elija, el cual introducirá en tu ano con suavidad para masturbarte.Puntúa tu pareja.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -479,7 +470,7 @@
   },
   {
     "id": 53,
-    "texto": "juega y acaricia sensualmente con los dedos con el ano de tu pareja mientras le masturbas",
+    "texto": "juega y acaricia sensualmente con los dedos con el ano de tu pareja mientras le masturbas.Puntúa quien recibe la acción.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -488,7 +479,7 @@
   },
   {
     "id": 54,
-    "texto": "mastúrbarte en la cara de tu pareja sensualmente mientras le provocas con tus palabras",
+    "texto": "mastúrbate en la cara de tu pareja sensualmente mientras le provocas con tus palabras.Puntúa tu pareja.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
@@ -674,5 +665,14 @@
     "tipo": "reto",
     "bisexual":false,
     "nivel": 5
+  },
+  {
+    "id": 75,
+    "texto": "inmobilizaras a tu pareja y la usarás con los ojos vendados lo que dure la prueba.Puntúa el que recibe la acción en función de lo que haya disfrutado.",
+    "duracion": 2,
+    "sexo": "U",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 4
   }
 ]
