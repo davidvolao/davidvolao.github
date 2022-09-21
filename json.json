@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-    "texto": "¿Te daría morbo que tu pareja te mostrase o utilizase con otras personas para su excitación?",
+    "texto": "¿Te daría morbo que tu pareja te mostrase o te utilizase con otras personas para su excitación?",
     "duracion": 0,
     "sexo": "U",
     "tipo": "verdad",
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "texto": "tu pareja estará con los ojos vendados y la boca tapada,mientras juegas y la usas.Todo esta permitido",
-    "duracion": 3,
+    "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
     "bisexual":false,
@@ -226,7 +226,7 @@
   },
   {
     "id": 26,
-    "texto": "coje un juguete sexual y úsalo para darte placer delante de tu pareja mientras le cuentas una fantasía o deseo",
+    "texto": "coje un juguete sexual y úsalo para darte placer sin correrte delante de tu pareja mientras le cuentas una fantasía o deseo",
     "duracion": 3,
     "sexo": "U",
     "tipo": "prueba",
@@ -244,7 +244,7 @@
   },
   {
     "id": 28,
-    "texto": "masturba a tu pareja mientras le pones un vídeo de una fantasía que te gustaría probar con tu pareja, mientras lo comentaís con todo lujo de detalles sin dejar que se corra",
+    "texto": "masturba a tu pareja mientras le pones un vídeo de una fantasía que te gustaría probar con tu pareja o que te de especial morbo, mientras lo comentaís con todo lujo de detalles sin dejar que se corra",
     "duracion": 0,
     "sexo": "U",
     "tipo": "prueba",
@@ -317,7 +317,7 @@
   {
     "id": 36,
     "texto": "deja que tu pareja te haga algun vídeo o te haga fotos sexys.Puntúa el que realiza las fotos en función del morbo que le ha dado tu predisposición y resultado.",
-    "duracion": 0,
+    "duracion": 3,
     "sexo": "U",
     "tipo": "reto",
     "bisexual":false,
@@ -334,7 +334,7 @@
   },
   {
     "id": 38,
-    "texto": "serás inmobilizado por tu pareja y usado con los ojos vendados lo que dure la prueba.Puntúa el que realiza la acción en función de lo que haya dejado ser usado su pareja.",
+    "texto": "serás inmobilizado por tu pareja y usado con los ojos vendados por ésta lo que dure la prueba.Puntúa el que realiza la acción en función de lo que haya dejado ser usado su pareja.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -827,5 +827,23 @@
     "tipo": "prueba",
     "bisexual":false,
     "nivel": 5
+  },
+  {
+    "id": 92,
+    "texto": "cuanta a tu pareja la acción o actitud o algo que haga o tenga en la cama y te ponga a mil",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id": 93,
+    "texto": "¿Que fantasía sexual te gustaría cumplir junto a tu pareja o participando con otras parejas?",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
   }
 ]
