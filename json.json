@@ -659,7 +659,7 @@
   },
   {
     "id": 74,
-    "texto": "Toca sumisión, tu pareja te escupirá donde quiera y las veces que quiera, y te humillará mientras te masturba sin dejar que te corras.",
+    "texto": "toca sumisión, tu pareja te escupirá donde quiera y las veces que quiera, y te humillará mientras te masturba sin dejar que te corras.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -686,11 +686,38 @@
   },
   {
     "id": 77,
-    "texto": "Toca sumisión, tu pareja te escupirá,insultará, o azotará donde quiera y las veces que quiera, y te humillará mientras tu te masturbas a ti mismo sin poder correrte.",
+    "texto": "toca sumisión, tu pareja te escupirá,insultará, o azotará donde quiera y las veces que quiera, y te humillará mientras tu te masturbas a ti mismo sin poder correrte.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
     "bisexual":false,
     "nivel": 5
+  },
+  {
+    "id": 78,
+    "texto": "saborea, pellizca, muerde o juega con los pezones de tu pareja, provocando al máximo a tu pareja.",
+    "duracion": 2,
+    "sexo": "U",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 2
+  },
+  {
+    "id":79,
+    "texto": "¿A qué edad empezaste a masturbarte y donde lo hacías?",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id":80,
+    "texto": "¿Te sueles masturbar en casa?¿Con que frecuencia?",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
   }
 ]
