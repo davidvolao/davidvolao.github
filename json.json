@@ -235,7 +235,7 @@
   },
   {
     "id": 27,
-    "texto": "masturba a tu pareja con el juguete que elijas.Puntua quien recibe la masturbación.",
+    "texto": "masturba a tu pareja con el juguete que elijas.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
@@ -253,7 +253,7 @@
   },
   {
     "id": 29,
-    "texto": "Embadurna de lubricante, nata, caramelo o algún liquido comestible en las partes de su cuerpo que quieras y luego quítaselo como prefieras.Evalúa el que recibe la acción.",
+    "texto": "embadurna a tu pareja de lubricante, nata, caramelo o algún liquido comestible en las partes de su cuerpo que quieras y luego quítaselo como prefieras.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -262,7 +262,7 @@
   },
   {
     "id": 30,
-    "texto": "debes atar a tu pareja y masturbarla hasta llevarla al límite y parar constantemente para finalmente no dejarla llegar al orgasmo.Evalúa el que recibe la acción",
+    "texto": "debes atar a tu pareja y masturbarla hasta llevarla al límite y parar constantemente para finalmente no dejarla llegar al orgasmo.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "prueba",
@@ -282,7 +282,7 @@
     "id": 32,
     "texto": "haz squirting a tu chica y no pares hasta conseguirlo o hasta que moje toda su ropa interior",
     "duracion": 0,
-    "sexo": "M",
+    "sexo": "H",
     "tipo": "reto",
     "bisexual":false,
     "nivel": 5
@@ -343,7 +343,7 @@
   },
   {
     "id": 39,
-    "texto": "compartir vuestros fluidos o prefluidos besáandoos sensualmente, podeis ayudaros a mojaros con masturbación o sexo oral.Puntúa tu pareja.",
+    "texto": "compartir vuestros fluidos o prefluidos besáandoos sensualmente, podeis ayudaros a mojaros con masturbación o sexo oral.",
     "duracion": 3,
     "sexo": "U",
     "tipo": "prueba",
@@ -461,7 +461,7 @@
   },
   {
     "id": 52,
-    "texto": "chuparás sensualmente el dedo que tu pareja elija, el cual introducirá en tu ano con suavidad para masturbarte.Puntúa tu pareja que realiza la acción.",
+    "texto": "chuparás sensualmente el dedo que tu pareja elija, el cual introducirá en tu ano con suavidad para masturbarte.Puntúa tu pareja.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -470,7 +470,7 @@
   },
   {
     "id": 53,
-    "texto": "juega y acaricia sensualmente con tus dedos con el ano de tu pareja mientras le masturbas.Puntúa quien recibe la acción.",
+    "texto": "juega y acaricia sensualmente con tus dedos con el ano de tu pareja a la vez que la masturbas.Puntúa quien recibe la acción.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -488,7 +488,7 @@
   },
   {
     "id": 55,
-    "texto": "Tu pareja te agarrará y apretará la cabeza contra su sexo, mientras le haces sexo oral y te mueve y usa a su antojo marcandote el ritmo para darla placer",
+    "texto": "tu pareja te agarrará y apretará la cabeza contra su sexo, mientras le haces sexo oral y te mueve y usa a su antojo marcandote el ritmo para darla placer",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -506,7 +506,7 @@
   },
   {
     "id": 57,
-    "texto": "lubrica el miembro sexual de tu pareja con excesivo lubricante o saliva y luego mastúrbale sin dejar que se corra",
+    "texto": "lubrica el miembro sexual de tu pareja con excesivo lubricante o saliva y luego mastúrbale sin dejar que se corra.Puedes escupir en su sexo mientras lo haces.",
     "duracion": 2,
     "sexo": "U",
     "tipo": "reto",
@@ -578,7 +578,7 @@
   },
   {
     "id": 65,
-    "texto": "coge a tu pareja del cuello mientras le cabalgas o la penetras.Puntúa quien recibe la acción.",
+    "texto": "coge a tu pareja del cuello mientras le cabalgas o la penetras.",
     "duracion": 1,
     "sexo": "U",
     "tipo": "reto",
@@ -596,7 +596,7 @@
   },
   {
     "id": 67,
-    "texto": "haz que tu pareja se corra en tu boca, bésala jugando con sus fluidos y masturbándola mientras la vuelves a poner a tono",
+    "texto": "haz que tu pareja se corra en tu boca, bésala jugando con sus fluidos y masturbándola mientras la vuelves a poner a tono.",
     "duracion": 0,
     "sexo": "U",
     "tipo": "reto",
@@ -719,5 +719,104 @@
     "tipo": "verdad",
     "bisexual":false,
     "nivel": 1
+  },
+  {
+    "id":81,
+    "texto": "cuando te masturbas¿Donde lo sueles hacer y donde te da más morbo?",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id":82,
+    "texto": "¿Te gustaría que tu pareja te pillase viendo porno o masturbándote?¿Como reaccionarías y como te gustaría que reaccionase?",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id":83,
+    "texto": "cuenta un sueño erótico o humedo que hayas tenido",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id":84,
+    "texto": "cuenta el momento o experiencia que más morbo te haya dado junto a tu pareja en un local liberal o con otras parejas que hayaís jugado",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id": 85,
+    "texto": "hazle una garganta profunda a tu chico en lo que dura la prueba, sigue aunque te den arcadas.Puntúa él.",
+    "duracion": 1,
+    "sexo": "M",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 4
+  },
+  {
+    "id": 86,
+    "texto": "describe el momento de mayor placer propio que hayas vivido jugando en locales liberales o con otras parejas junto a tu pareja.",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id": 87,
+    "texto": "describe el momento de mayor placer viendo a tu pareja disfrutar y explica el porqué,que hayas vivido jugando en locales liberales o con otras parejas junto a tu pareja.",
+    "duracion": 0,
+    "sexo": "U",
+    "tipo": "verdad",
+    "bisexual":false,
+    "nivel": 1
+  },
+  {
+    "id": 88,
+    "texto": "masturba a tu pareja mientras le cuentas con todo lujuría una fantasía o acción que te gustaría que tu pareja hiciese con alguien de su mismo sexo.",
+    "duracion": 2,
+    "sexo": "U",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 5
+  },
+  {
+    "id": 89,
+    "texto": "lame los dedos o la palma de tu mano de tu pareja y usa su mano para acariciarte o masturbarte mientras la otra persona no se toca y no hace fuerza ni maneja la mano, tu la manejaras a tu antojo.",
+    "duracion": 2,
+    "sexo": "U",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 5
+  },
+  {
+    "id": 90,
+    "texto": "intenta beberte una cerveza del tirón en lo que dura el tiempo, cuanto más bebas mas puntuación recibes.",
+    "duracion": 1,
+    "sexo": "U",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 5
+  },
+  {
+    "id": 90,
+    "texto": "tu chico se correrá en tu cara, pelo o boca donde el quiera, mientras tu le animas a que te la de sensualmente de rodillas. No podrás limpiarte despúes.",
+    "duracion": 0,
+    "sexo": "M",
+    "tipo": "reto",
+    "bisexual":false,
+    "nivel": 5
   }
 ]
